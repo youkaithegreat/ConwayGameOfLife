@@ -17,7 +17,7 @@ Conway's Game of Life takes place on a grid of any size where each cell of the g
 It follows three simple rules through the generations
 
 1. Any live cell with two or three live neighbours survives the round
-2. ANy dead cell with three live neighbors becomes a live cell
+2. Any dead cell with three live neighbors becomes a live cell
 3. All other live cells die in the next generation. Similarily, all other dead cells stay dead.
 
 The function that is in this can take and process a grid of cells and produce the next results. Run continuously it can iterate through all forms within the initial grid size.
